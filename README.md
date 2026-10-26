@@ -1,14 +1,27 @@
- <div align="center">
+ 
+<div align="center">
 
 # Om Vaghela
 
 ### AI/ML Engineer · Software Developer · Full-Stack Developer
 
-Building intelligent systems, practical applications, and scalable software.
+<samp>Building intelligent systems, practical applications, and scalable software.</samp>
 
-[LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/omvaghelaa) · [Portfolio](https://github.com/omvaghelaa)
+<br/>
+
+<a href="https://github.com/omvaghelaa">
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/CONTACT-39FF14?style=for-the-badge&logo=minutemailer&logoColor=black" alt="Contact"/>
+</a>
 
 </div>
+
+<br/>
 
 <br/>
 
@@ -29,7 +42,7 @@ Building intelligent systems, practical applications, and scalable software.
   />
 </picture>
 
-### about
+# about
 
 <samp>
 Computer Science and Engineering graduate with a strong interest in Artificial Intelligence, Machine Learning, Deep Learning, and Full-Stack Development.
@@ -37,7 +50,7 @@ Computer Science and Engineering graduate with a strong interest in Artificial I
 I enjoy turning ideas into working applications, solving algorithmic problems, and building technology that addresses real-world challenges.
 </samp>
 
-### now
+# now
 
 **AI/ML Engineering & Development**
 
@@ -51,45 +64,7 @@ I enjoy turning ideas into working applications, solving algorithmic problems, a
 
 <samp>Practicing Data Structures and Algorithms in C++ and improving software engineering fundamentals.</samp>
 
-### highlights
-
-**AI-Based Violence Detection System**
-
-<samp>LSTM-based human action recognition using pose keypoints to identify potentially violent actions.</samp>
-
-`Python` `TensorFlow/Keras` `MediaPipe` `OpenCV` `Deep Learning`
-
-**AI-Powered Blood Group Detection Using Fingerprint**
-
-<samp>Exploring CNN-based image classification for an AI-driven healthcare research project.</samp>
-
-`Python` `CNN` `Computer Vision`
-
-**Cardiovascular Risk Prediction**
-
-<samp>A deep learning project exploring cardiovascular risk prediction using a CNN-LSTM architecture.</samp>
-
-`Python` `Deep Learning` `CNN` `LSTM`
-
-**MediScan AI**
-
-<samp>An AI-assisted prescription decoder exploring OCR and natural language processing.</samp>
-
-`Python` `OCR` `NLP`
-
-**EventWave**
-
-<samp>A Django-based event booking application.</samp>
-
-`Python` `Django` `Web Development`
-
-**PacketQuest**
-
-<samp>A collaborative project built with Raj Vyas.</samp>
-
-[Live Demo](https://thepacketquest.vercel.app/) · [Source Code](https://github.com/omvagvhelaa/PacketQuest)
-
-### experience
+# experience
 
 **ShadowFox** — AI/ML Engineer Intern  
 <samp>March 2025 – July 2025</samp>
@@ -100,19 +75,38 @@ I enjoy turning ideas into working applications, solving algorithmic problems, a
 **InfoLabz** — Full-Stack Engineer Intern  
 <samp>August 2023 – September 2023</samp>
 
-### stack
 
-<samp>
-Python · C++ · Java · JavaScript · PHP · HTML5 · CSS3 · SQL · MySQL · MongoDB · Node.js · Express.js · Django · TensorFlow · Keras · OpenCV · MediaPipe · Git · GitHub
-</samp>
+# ⚡ TECH ARSENAL
 
-### certifications
+#### CORE LANGUAGES
 
-<samp>
-IBM Data Analysis with Python · IBM DA0101EN · OpenCV Bootcamp · AWS Generative AI for Executives
-</samp>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,php,html,css" alt="Python, C++, Java, JavaScript, PHP, HTML and CSS"/>
+</p>
 
-### stats
+#### 🤖 AI / MACHINE LEARNING
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" alt="TensorFlow and OpenCV"/>
+  <img src="https://img.shields.io/badge/KERAS-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/COMPUTER_VISION-111111?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
+  <img src="https://img.shields.io/badge/DEEP_LEARNING-111111?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="Deep Learning"/>
+</p>
+
+#### 🌐 WEB / BACKEND / DATABASE
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql,git,github,vscode" alt="Node.js, Express, Django, MongoDB, MySQL, Git, GitHub and VS Code"/>
+</p>
+
+#### 🛠️ TOOLS & WORKFLOW
+
+<p>
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,postman" alt="GitHub, Git, VS Code and Postman"/>
+</p>
+
+
+# stats
 
 <div align="center">
 
